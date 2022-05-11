@@ -2,6 +2,10 @@
 Pacific NorthWest Virome - organization and execution 
 
 
+## Vegetable production in the Willamete Valley
+https://hort.purdue.edu/newcrop/cropmap/oregon/crop/wv-veg.html
+
+
 ## Material
 List of material for sampling plant material and virus extraction.
 | Reagents| Quantity | Details|
