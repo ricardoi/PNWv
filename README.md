@@ -1,9 +1,15 @@
 # PNWv
 Pacific NorthWest Virome - organization and execution 
 
+## Sampling Viromes 
+Site 1: St. Mary's Peak
+1 site - 11 species
+10 random samples - along the trail ::: 
+
 
 ## Vegetable production in the Willamete Valley
 https://hort.purdue.edu/newcrop/cropmap/oregon/crop/wv-veg.html
+
 
 
 ## Material
