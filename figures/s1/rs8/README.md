@@ -1,10 +1,8 @@
-## Site 1 Sample 1
+## Site 1 Sample 8
 
-<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs1/IMG_1919.jpeg" width="700" height="700">
-<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs1/IMG_1920.jpeg" width="700" height="700">
-<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs1/IMG_1921.jpeg" width="700" height="700">
-<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs1/IMG_1922.jpeg" width="700" height="700">
-<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs1/IMG_1923.jpeg" width="700" height="700">
-
+<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs8/IMG_1972.jpeg" width="700" height="500">
+<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs8/IMG_1973.jpeg" width="700" height="500">
+<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs8/IMG_1974.jpeg" width="700" height="500">
+<img src="https://github.com/ricardoi/PNWv/blob/main/figures/s1/rs8/IMG_1975.jpeg" width="700" height="500">
 
 
