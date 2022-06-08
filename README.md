@@ -25,16 +25,16 @@ The objective is to identify the viral diversity and composition in these natura
 1 trail - 10 random samples collected along the trail  
 | Trail  | ID      | No. of samples | Species and description |
 |--------|---------|----------------|-------------------------|
-| Site 1 | Sp. R1  | 1              | Oxalis oregana          |
-|        | Sp. R2  | 1              | Viola glabella          |
-|        | Sp. R3  | 1              | Aquilegia vulgaris      |
-|        | Sp. R4  | 1              | ?                       |
-|        | Sp. R5  | 1              | Rubus                   |
-|        | Sp. R6  | 1              | Tellima grandiflora     |
-|        | Sp. R7  | 1              | Trillium ovieta         |
-|        | Sp. R8  | 1              | Aquilegia 2             |
-|        | Sp. R9  | 1              | ?                       |
-|        | Sp. R10 | 1              | Rubus/Berries           |
+| Site 1 | Sp. R1  | 1              | [Oxalis oregana](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs1)      |
+|        | Sp. R2  | 1              | [Viola glabella](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs2)      |
+|        | Sp. R3  | 1              | [Aquilegia vulgaris](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs3)  |
+|        | Sp. R4  | 1              | [?](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs4)                   |
+|        | Sp. R5  | 1              | [Rubus](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs5)               |
+|        | Sp. R6  | 1              | [Tellima grandiflora](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs6) |
+|        | Sp. R7  | 1              | [Trillium ovieta](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs7)     |
+|        | Sp. R8  | 1              | [Aquilegia 2](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs8)         |
+|        | Sp. R9  | 1              | [?](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs9)                   |
+|        | Sp. R10 | 1              | [Rubus/Berries](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs10)      |
 
 
 
