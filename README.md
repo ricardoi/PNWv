@@ -1,10 +1,41 @@
-# PNWv
-Pacific NorthWest Virome - organization and execution 
+# Pacific NorthWest Virome 
+The Pacific Northwest in Oregon is characterized by an evergreen forest, dominated primarily by Douglas fir (_Pseudotsuga menziesii_) and Oregon maple (_Acer macrophyllum_), and other shrubs and herbaceous species in the understory, such as huckleberry, dogwood, bitter cherry, ferns, clover and bryophyte species to mention some. 
+
+Viral symptoms can be recognized in annual and perennial species in the forest understory, however, the virome of the Pacific Northwest remains unknown. I am interested in characterizing the virome associated with forest ecosystems and surrounding areas located in the Willamette Valley, which is the main producer of vegetable crops and berries, not to mention timber. 
+
+The objective is to identify the viral diversity and composition in these natural habitats that could jump to crop systems which could lead to epidemics affecting local agricultural systems.
 
 ## Sampling Viromes 
-Site 1: St. Mary's Peak
-1 site - 11 species
-10 random samples - along the trail ::: 
+**Site 1:** _ St. Mary's Peak _
+1 cuadrant - 11 species collected
+| Quadrant | ID     | No. of samples | Species and description    |
+|----------|--------|----------------|----------------------------|
+| Site 1   | Sp. 1  | 372            | Clover -                   |
+|          | Sp. 2  | 33             | Achlys triphylla           |
+|          | Sp. 3  | 11             | Ranunculus occidentalis    |
+|          | Sp. 4  | 4              | Grass - wide blade         |
+|          | Sp. 5  | 5              | ?                          |
+|          | Sp. 6  | 16             | Grass - hairless and sharp |
+|          | Sp. 7  | 15             | Grass - three early leaves |
+|          | Sp. 8  | 3              | Viola glabella             |
+|          | Sp. 9  | 24             | ?                          |
+|          | Sp. 10 | 3              | Douglas fir                |
+|          | Sp. 11 | 1              | Briophyte                  |
+
+1 trail - 10 random samples collected along the trail  
+| Trail  | ID      | No. of samples | Species and description |
+|--------|---------|----------------|-------------------------|
+| Site 1 | Sp. R1  | 1              | Oxalis oregana          |
+|        | Sp. R2  | 1              | Viola glabella          |
+|        | Sp. R3  | 1              | Aquilegia vulgaris      |
+|        | Sp. R4  | 1              | ?                       |
+|        | Sp. R5  | 1              | Rubus                   |
+|        | Sp. R6  | 1              | Tellima grandiflora     |
+|        | Sp. R7  | 1              | Trillium ovieta         |
+|        | Sp. R8  | 1              | Aquilegia 2             |
+|        | Sp. R9  | 1              | ?                       |
+|        | Sp. R10 | 1              | Rubus/Berries           |
+
 
 
 ## Vegetable production in the Willamete Valley
