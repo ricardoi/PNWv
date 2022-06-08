@@ -3,6 +3,11 @@ The Pacific Northwest in Oregon is characterized by an evergreen forest, dominat
 
 Viral symptoms can be recognized in annual and perennial species in the forest understory, however, the virome of the Pacific Northwest remains unknown. I am interested in characterizing the virome associated with forest ecosystems and surrounding areas located in the Willamette Valley, which is the main producer of vegetable crops and berries, not to mention timber. 
 
+Fig.1) Willamette valley - presettlement vegetation (1850)
+<p align="center">
+<img src="https://github.com/ricardoi/PNWv/blob/main/figures/Willamette_valley_VegetationMap.png" width="400" height="500">
+</p>
+
 The objective is to identify the viral diversity and composition in these natural habitats that could jump to crop systems which could lead to epidemics affecting local agricultural systems.
 
 ## Sampling Viromes 
