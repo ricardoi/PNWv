@@ -17,13 +17,13 @@ The objective is to identify the viral diversity and composition in these natura
 |----------|--------|----------------|----------------------------|
 | [Site 1](https://github.com/ricardoi/PNWv/blob/main/figures/quadrants/README.md)   | Sp. 1  | 372            | Clover -                   |
 |          | Sp. 2  | 33             | Achlys triphylla           |
-|          | Sp. 3  | 11             | Ranunculus occidentalis    |
-|          | Sp. 4  | 4              | Grass - wide blade         |
-|          | Sp. 5  | 5              | ?                          |
+|          | Sp. 9  | 24             | ?                          |
 |          | Sp. 6  | 16             | Grass - hairless and sharp |
 |          | Sp. 7  | 15             | Grass - three early leaves |
+|          | Sp. 3  | 11             | Ranunculus occidentalis    |
+|          | Sp. 5  | 5              | ?                          |
+|          | Sp. 4  | 4              | Grass - wide blade         |
 |          | Sp. 8  | 3              | Viola glabella             |
-|          | Sp. 9  | 24             | ?                          |
 |          | Sp. 10 | 3              | Douglas fir                |
 |          | Sp. 11 | 1              | Briophyte                  |
 
