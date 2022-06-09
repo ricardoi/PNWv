@@ -15,7 +15,7 @@ The objective is to identify the viral diversity and composition in these natura
 1 cuadrant - 11 species collected
 | Quadrant | ID     | No. of samples | Species and description    |
 |----------|--------|----------------|----------------------------|
-| Site 1   | Sp. 1  | 372            | Clover -                   |
+| [Site 1](https://github.com/ricardoi/PNWv/blob/main/figures/quadrants/README.md)   | Sp. 1  | 372            | Clover -                   |
 |          | Sp. 2  | 33             | Achlys triphylla           |
 |          | Sp. 3  | 11             | Ranunculus occidentalis    |
 |          | Sp. 4  | 4              | Grass - wide blade         |
