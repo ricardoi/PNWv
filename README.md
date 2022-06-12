@@ -26,6 +26,8 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 8  | 3              | Viola glabella             |
 |          | Sp. 10 | 3              | Douglas fir                |
 |          | Sp. 11 | 1              | Briophyte                  |
+| [Site 2] | Sp 1 to 12 |  | |
+
 
 1 trail - 10 random samples collected along the trail  
 | Trail  | ID      | No. of samples | Species and description |
