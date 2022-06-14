@@ -49,26 +49,26 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. R8  | 1              | [Aquilegia 2](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs8)         |
 |        | Sp. R9  | 1              | [?](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs9)                   |
 |        | Sp. R10 | 1              | [Rubus/Berries](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs10)      |
-| Site 2 | Sp. R1  | 1              | Rubus parviflorus|
-|        | Sp. R2  | 1              | Lupinus polyphyllus|
-|        | Sp. R3  | 1              | Toxicodendron diversilobum|
-|        | Sp. R4  | 1              | Achilys triphylla |
-|        | Sp. R5  | 1              | Vancoveria hexandra|
-|        | Sp. R6  | 1              | Unknown by the creek |
-|        | Sp. R7  | 1              | Boykinia occidentalis|
-|        | Sp. R8  | 1              | Rodhodendron |
-|        | Sp. R9  | 1              | Corylus cornuta|
-|        | Sp. R10 | 1              | Rubus spectabilis|
-|        | Sp. R11 | 1              | Toxicodendron diversilobum|
-|        | Sp. R12 | 1              | Holodiscus discolor|
-|        | Sp. R13 | 1              | Gaulteria sp|
-|        | Sp. R14 | 1              | Anemonastrum deltoideum|
-|        | Sp. R15 | 1              | Oxalis oregana|
-|        | Sp. R16 | 1              | Acer macrophylum |
-|        | Sp. R17 | 1              | Actea sp.|
-|        | Sp. R18 | 1              | Thuja occidentalis|
-|        | Sp. R19 | 1              | Tsuga heterrophylla|
-|        | Sp. R20 | 1              | Pseudotsuga menziesii|
+| Site 2 | Sp. R1  | 1              | [Rubus parviflorus](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs1/README.md)|
+|        | Sp. R2  | 1              | [Lupinus polyphyllus](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs2/README.md)|
+|        | Sp. R3  | 1              | [Toxicodendron diversilobum](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs3/README.md)|
+|        | Sp. R4  | 1              | [Achilys triphylla](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs4/README.md) |
+|        | Sp. R5  | 1              | [Vancoveria hexandra](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs5/README.md)|
+|        | Sp. R6  | 1              | [Unknown by the creek](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs6/README.md)|
+|        | Sp. R7  | 1              | [Boykinia occidentalis](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs7/README.md)|
+|        | Sp. R8  | 1              | [Rodhodendron](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs8/README.md)|
+|        | Sp. R9  | 1              | [Corylus cornuta](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs9/README.md)|
+|        | Sp. R10 | 1              | [Rubus spectabilis](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs10/README.md)|
+|        | Sp. R11 | 1              | [Toxicodendron diversilobum](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs11/README.md)|
+|        | Sp. R12 | 1              | [Holodiscus discolor](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs12/README.md)|
+|        | Sp. R13 | 1              | [Gaulteria sp](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs13/README.md)|
+|        | Sp. R14 | 1              | [Anemonastrum deltoideum](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs14/README.md)|
+|        | Sp. R15 | 1              | [Oxalis oregana](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs15/README.md)|
+|        | Sp. R16 | 1              | [Acer macrophylum](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs16/README.md)|
+|        | Sp. R17 | 1              | [Actea sp.](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs17/README.md)|
+|        | Sp. R18 | 1              | [Thuja occidentalis](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs18/README.md)|
+|        | Sp. R19 | 1              | [Tsuga heterrophylla](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs19/README.md)|
+|        | Sp. R20 | 1              | [Pseudotsuga menziesii](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs20/README.md)|
 
 
 
