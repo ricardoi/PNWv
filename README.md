@@ -3,6 +3,11 @@ The Pacific Northwest in Oregon is characterized by an evergreen forest, dominat
 
 Viral symptoms can be recognized in annual and perennial species in the forest understory, however, the virome of the Pacific Northwest remains unknown. I am interested in characterizing the virome associated with forest ecosystems and surrounding areas located in the Willamette Valley, which is the main producer of vegetable crops and berries, not to mention timber. 
 
+### Sampling strategie
+
+Two sampling strategies were implemented in the forests around the Willamette Valley, OR: quadrants and active sampling. Each quadrant was equivalent to 1 sq m, and all plant species were collected -  leaves or leaves and stems, and counted. In the random sampling, trail transects were scouted for two miles, collecting plants with leaves resembling viral symptoms, such as leaf and vein discoloration, crinkle, as well as the presence of insect vectors.
+
+
 Fig.1) Willamette valley - presettlement vegetation (1850)
 <p align="center">
 <img src="https://github.com/ricardoi/PNWv/blob/main/figures/Willamette_valley_VegetationMap.png" width="400" height="500">
@@ -17,7 +22,7 @@ The objective is to identify the viral diversity and composition in these natura
 |----------|--------|----------------|----------------------------|
 | [Site 1](https://github.com/ricardoi/PNWv/blob/main/figures/quadrants/README.md)   | Sp. 1  | 372            | Clover -                   |
 |          | Sp. 2  | 33             | Achlys triphylla           |
-|          | Sp. 9  | 24             | ?                          |
+|          | Sp. 9  | 24             | Vancoveria hexandra                          |
 |          | Sp. 6  | 16             | Grass - hairless and sharp |
 |          | Sp. 7  | 15             | Grass - three early leaves |
 |          | Sp. 3  | 11             | Ranunculus occidentalis    |
@@ -42,6 +47,27 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. R8  | 1              | [Aquilegia 2](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs8)         |
 |        | Sp. R9  | 1              | [?](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs9)                   |
 |        | Sp. R10 | 1              | [Rubus/Berries](https://github.com/ricardoi/PNWv/tree/main/figures/s1/rs10)      |
+| Site 2 | Sp. R1  | 1              | Rubus parviflorus|
+|        | Sp. R2  | 1              | Lupinus polyphyllus|
+|        | Sp. R3  | 1              | Toxicodendron diversilobum|
+|        | Sp. R4  | 1              | Achilys triphylla |
+|        | Sp. R5  | 1              | Vancoveria hexandra|
+|        | Sp. R6  | 1              | Unknown by the creek |
+|        | Sp. R7  | 1              | Boykinia occidentalis|
+|        | Sp. R8  | 1              | Rodhodendron |
+|        | Sp. R9  | 1              | Corylus cornuta|
+|        | Sp. R10 | 1              | Rubus spectabilis|
+|        | Sp. R11 | 1              | Toxicodendron diversilobum|
+|        | Sp. R12 | 1              | Holodiscus discolor|
+|        | Sp. R13 | 1              | Gaulteria sp|
+|        | Sp. R14 | 1              | Anemonastrum deltoideum|
+|        | Sp. R15 | 1              | Oxalis oregana|
+|        | Sp. R16 | 1              | Acer macrophylum |
+|        | Sp. R17 | 1              | Actea sp.|
+|        | Sp. R18 | 1              | Thuja occidentalis|
+|        | Sp. R19 | 1              | Tsuga heterrophylla|
+|        | Sp. R20 | 1              | Pseudotsuga menziesii|
+
 
 
 
