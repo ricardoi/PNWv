@@ -6,8 +6,10 @@ Viral symptoms can be recognized in annual and perennial species in the forest u
 ### Sampling strategie
 
 Two sampling strategies were implemented in the forests around the Willamette Valley, OR: quadrants and active sampling. Each quadrant was equivalent to 1 sq m, and all plant species were collected -  leaves or leaves and stems, and counted. In the random sampling, trail transects were scouted for two miles, collecting plants with leaves resembling viral symptoms, such as leaf and vein discoloration, crinkle, as well as the presence of insect vectors.
+The samples were collected in ziploc plastic bags, filled with air and maintained at 4 degrees until identification and dissication processing. The leaves were placed in a ventilated paper bags in the ziploc plastic bag with 100 to 200 gr of silica gel, replaced at least once until dissecation.
 
 
+## Map
 Fig.1) Willamette valley - presettlement vegetation (1850)
 <p align="center">
 <img src="https://github.com/ricardoi/PNWv/blob/main/figures/Willamette_valley_VegetationMap.png" width="400" height="500">
