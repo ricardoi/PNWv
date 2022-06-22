@@ -69,6 +69,26 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. R18 | 1              | [Thuja occidentalis](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs18/README.md)|
 |        | Sp. R19 | 1              | [Tsuga heterrophylla](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs19/README.md)|
 |        | Sp. R20 | 1              | [Pseudotsuga menziesii](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs20/README.md)|
+| Site 3 | Sp. R1  | 1              | [Rubus parviflorus]()|
+|        | Sp. R2  | 1              | [Lupinus polyphyllus]()|
+|        | Sp. R3  | 1              | [Toxicodendron diversilobum]()|
+|        | Sp. R4  | 1              | [Achilys triphylla]() |
+|        | Sp. R5  | 1              | [Vancoveria hexandra]()|
+|        | Sp. R6  | 1              | [Unknown by the creek]()|
+|        | Sp. R7  | 1              | [Boykinia occidentalis]()|
+|        | Sp. R8  | 1              | [Rodhodendron]()|
+|        | Sp. R9  | 1              | [Corylus cornuta]()|
+|        | Sp. R10 | 1              | [Rubus spectabilis]()|
+|        | Sp. R11 | 1              | [Toxicodendron diversilobum]()|
+|        | Sp. R12 | 1              | [Holodiscus discolor]()|
+|        | Sp. R13 | 1              | [Gaulteria sp]()|
+|        | Sp. R14 | 1              | [Anemonastrum deltoideum]()|
+|        | Sp. R15 | 1              | [Oxalis oregana]()|
+|        | Sp. R16 | 1              | [Acer macrophylum]()|
+|        | Sp. R17 | 1              | [Actea sp.]()|
+|        | Sp. R18 | 1              | [Thuja occidentalis]()|
+|        | Sp. R19 | 1              | [Tsuga heterrophylla]()|
+|        | Sp. R20 | 1              | [Pseudotsuga menziesii]()|
 
 
 
