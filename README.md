@@ -35,6 +35,7 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 11 | 1              | Briophyte                  |
 | [Site 2] | Sp 1 to 12 |  | |
 | [Site 3] | Sp 1 to 12 |  | |
+| [Site 4] | Sp 1 to 12 |  | |
 
 
 1 trail - 10 random samples collected along the trail  
@@ -90,8 +91,38 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. R17 | 1              | [Rubus sp.]()|
 |        | Sp. R18 | 1              | [Acer macrophyllum]()|
 |        | Sp. R19 | 1              | [Tsuga heterrophylla]()|
-
-
+| Site 4 | Sp. R1  | 1              | [Gauteria shallon]()|
+|        | Sp. R2  | 1              | [Pteridium latiusculum]()|
+|        | Sp. R3  | 1              | [Tsuga heterophylla]()|
+|        | Sp. R4  | 1              | [Acer circinatum]() |
+|        | Sp. R5  | 1              | [Rododendron sp.]()|
+|        | Sp. R6  | 1              | [Thuja occidentalis]()|
+|        | Sp. R7  | 1              | [Linnae borealius]()|
+|        | Sp. R8  | 1              | [Viola sempervirens]()|
+|        | Sp. R9  | 1              | [Vaccinium parviflorum]()|
+|        | Sp. R10 | 1              | [Lactuca muralis]()|
+|        | Sp. R11 | 1              | [Thuja occidentalis]()|
+|        | Sp. R12 | 1              | [Grass]()|
+|        | Sp. R13 | 1              | [Picea ??]()|
+|        | Sp. R14 | 1              | [Berberis nervosa]()|
+|        | Sp. R15 | 1              | [Leucanthemum vulgare]()|
+|        | Sp. R16 | 1              | [Rubus occidentalis]()|
+|        | Sp. R17 | 1              | [Equisetum telmateia]()|
+|        | Sp. R18 | 1              | [Acer macrophyllum]()|
+|        | Sp. R19 | 1              | [Asarum caudatum]()|
+|        | Sp. R20 | 1              | [Osmorhiza depauperata]()|
+|        | Sp. 21  | 1              | [Tsuga heterophylla])() |
+|        | Sp. 22  | 1              | [Rubus occidentalis])() |
+|        | Sp. 23  | 1              | [Fabaceae])() |
+|        | Sp. 24  | 1              | [some berry ])() |
+| ESA    | Sp. R1  | 1              |                            |
+|        | Sp. R2  | 1              |                            |
+|        | Sp. R3  | 1              |                            |
+|        | Sp. R4  | 1              |                            |
+|        | Sp. R5  | 1              |                            |
+|        | Sp. R6  | 1              |                            |
+|        | Sp. R7  | 1              |                            |
+|        | Sp. R8  | 1              |                            |
 
 
 ## Vegetable production in the Willamete Valley
