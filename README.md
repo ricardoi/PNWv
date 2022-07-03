@@ -114,7 +114,7 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. 21  | 1              | [Tsuga heterophylla])() |
 |        | Sp. 22  | 1              | [Rubus occidentalis])() |
 |        | Sp. 23  | 1              | [Fabaceae])() |
-|        | Sp. 24  | 1              | [some berry ])() |
+|        | Sp. 24  | 1              | [Prunus emarginata])() |
 | ESA    | Sp. R1  | 1              |                            |
 |        | Sp. R2  | 1              |                            |
 |        | Sp. R3  | 1              |                            |
