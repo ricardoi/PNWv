@@ -37,16 +37,16 @@ The objective is to identify the viral diversity and composition in these natura
 | [Site 3] | Sp 1 to 12 |  | |
 | [Site 4] | Sp. 1  | 1             | Achrostichum danaeiforlium  |
 |          | Sp. 2  | 71            | Violet sororia              |
-|          | Sp. 3  | 1             |                             |
+|          | Sp. 3  | 18            | Fragaria sp                 |
 |          | Sp. 4  | 13            | Lynnea borealis             |
 |          | Sp. 5  | 3             | Whipplea modesta            |
 |          | Sp. 6  | 8             | Lyschmachia latifolia       |
 |          | Sp. 7  | 15            | Lactuca morallis            |
 |          | Sp. 8  | 1             | Unknown                     |
 |          | Sp. 9  | 43            | Gallium mollugo             |
-|          | Sp. 10 | 1             |                             |
-|          | Sp. 12 | 1             |                             |
-|          | Sp. 13 | 1             |                             |
+|          | Sp. 10 | 4             | Grass                       |
+|          | Sp. 12 | 1             | Tsuga heterophylla          |
+|          | Sp. 13 | 1             | Pinus strobus               |
 |          | Sp. 14 | 1             |                             |
 |          | Sp. 15 | 1             |                             |
 |          | Sp. 16 | 1             |                             |
@@ -89,6 +89,7 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. R18 | 1              | [Thuja occidentalis](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs18/README.md)|
 |        | Sp. R19 | 1              | [Tsuga heterrophylla](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs19/README.md)|
 |        | Sp. R20 | 1              | [Pseudotsuga menziesii](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs20/README.md)|
+|        | Sp. R21 | 1              | [Crassulaceae sp](https://github.com/ricardoi/PNWv/blob/main/figures/s2/rs21/README.md)|
 | Site 3 | Sp. R1  | 1              | [Rubus parviflorus]()|
 |        | Sp. R2  | 1              | [Vancoveria hexandra]()|
 |        | Sp. R3  | 1              | [Berberis nervosa]()|
