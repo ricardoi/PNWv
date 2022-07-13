@@ -35,7 +35,25 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 11 | 1              | Briophyte                  |
 | [Site 2] | Sp 1 to 12 |  | |
 | [Site 3] | Sp 1 to 12 |  | |
-| [Site 4] | Sp 1 to 12 |  | |
+| [Site 4] | Sp. 1  | 1             | Achrostichum danaeiforlium  |
+|          | Sp. 2  | 71            | Violet sororia              |
+|          | Sp. 3  | 1             |                             |
+|          | Sp. 4  | 13            | Lynnea borealis             |
+|          | Sp. 5  | 3             | Whipplea modesta            |
+|          | Sp. 6  | 8             | Lyschmachia latifolia       |
+|          | Sp. 7  | 15            | Lactuca morallis            |
+|          | Sp. 8  | 1             | Unknown                     |
+|          | Sp. 9  | 43            | Gallium mollugo             |
+|          | Sp. 10 | 1             |                             |
+|          | Sp. 12 | 1             |                             |
+|          | Sp. 13 | 1             |                             |
+|          | Sp. 14 | 1             |                             |
+|          | Sp. 15 | 1             |                             |
+|          | Sp. 16 | 1             |                             |
+|          | Sp. 17 | 1             |                             |
+|          | Sp. 18 | 1             |                             |
+|          | Sp. 19 | 1             |                             |
+|          | Sp. 18 | 1             |                             |
 
 
 1 trail - 10 random samples collected along the trail  
