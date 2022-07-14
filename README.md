@@ -31,19 +31,10 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 5  | 5              | ?                          |
 |          | Sp. 4  | 4              | Grass - wide blade         |
 |          | Sp. 8  | 3              | Viola glabella             |
-|          | Sp. 10 | 3              | [Pseudotsuga menziesii]()                |
+|          | Sp. 10 | 3              | Douglas fir                |
 |          | Sp. 11 | 1              | Briophyte                  |
-| [Site 2] | Sp. 1 to 12 |          |                             |
-| [Site 3] | Sp. 1  |               | [Holodiscus discolor]()     |
-|          | Sp. 2  | 1             | [Pseudotsuga menziesii]()   |
-|          | Sp. 3  |               | [Berberis nervosa]()        |
-|          | Sp. 4  | 7             | [Vancoveria hexandra]()     |
-|          | Sp. 5  |               | [Pilosella sp]()            |
-|          | Sp. 6  |               | Unknown sp                  |
-|          | Sp. 7  |               | [Iris douglasiana]()        |
-|          | Sp. 8  |               | [Grass sp. 1]()             |
-|          | Sp. 9  |               | [Elymus trachycalus]()      |
-|          | Sp. 10 |               | [Anisocarpus mamadoides]()  |
+| [Site 2] | Sp 1 to 12 |  | |
+| [Site 3] | Sp 1 to 12 |  | |
 | [Site 4] | Sp. 1  | 1             | Achrostichum danaeiforlium  |
 |          | Sp. 2  | 71            | Violet sororia              |
 |          | Sp. 3  | 18            | Fragaria sp                 |
@@ -57,6 +48,13 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 12 | 1             | Tsuga heterophylla          |
 |          | Sp. 13 | 1             | Pinus strobus               |
 |          | Sp. 14 | 1             |                             |
+|          | Sp. 15 | 1             |                             |
+|          | Sp. 16 | 1             |                             |
+|          | Sp. 17 | 1             |                             |
+|          | Sp. 18 | 1             |                             |
+|          | Sp. 19 | 1             |                             |
+|          | Sp. 18 | 1             |                             |
+
 
 1 trail - 10 random samples collected along the trail  
 | Trail  | ID      | No. of samples | Species and description |
@@ -155,7 +153,7 @@ https://hort.purdue.edu/newcrop/cropmap/oregon/crop/wv-veg.html
 List of material for sampling plant material and virus extraction.
 | Reagents| Quantity | Details|
 | -- | -- | -- |
-|[Silica gel](https://www.sigmaaldrich.com/US/en/product/mm/101969)| 5 kg | Use 200 mg per sample, change everyday a couple of days and followed 2 to 3 days until dried|
+|[Silica gel](https://www.sigmaaldrich.com/US/en/product/mm/101969)| 25 kg | Use 200 mg per sample, change as needed until dried|
 |Ziploc bags | 200 | to store 200mg of silica gel with plant samples|
 |[Clippers](https://www.amazon.com/OUTCREATOR-Trimming-Scissors-Stainless-Gardening/dp/B08X47RH9H/ref=sr_1_50_sspa?crid=38S7FXOQZXRE2&keywords=plant+clippers&qid=1646851406&sprefix=plant+clipper%2Caps%2C271&sr=8-50-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUTZHTkk0TFUzQ09TJmVuY3J5cHRlZElkPUEwMjAyODUwUjk4N1pKSzk5OTRYJmVuY3J5cHRlZEFkSWQ9QTAzMjE3OTgzUTIwNDQ3VEE0WEU5JndpZGdldE5hbWU9c3BfYXRmX25leHQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)| 2 pairs | to collect plant material |
 |[Ammonium quaternary disinfectant](https://www.target.com/p/clorox-disinfecting-wipes-bleach-free-cleaning-wipes-crisp-lemon-75ct/-/A-12992354?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tmnv&DFA=71700000090288494&CPNG=PLA_DVM%2Ba064R000012LE2GQAW-Clorox_Home+Care_Google+Search_2022-600130&adgroup=PLA_Clorox_Home&LID=700000001393753pgs&network=g&device=c&location=1024429&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMDiQ5-xWtyCqBK-b0kQm-LYc-HpIQq8FZVeNl5G9mG-y0sKA5lCy2xoCw4EQAvD_BwE&gclsrc=aw.ds)| 3 boxes | to disinfect clippers between samples |
