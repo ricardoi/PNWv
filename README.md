@@ -31,10 +31,19 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 5  | 5              | ?                          |
 |          | Sp. 4  | 4              | Grass - wide blade         |
 |          | Sp. 8  | 3              | Viola glabella             |
-|          | Sp. 10 | 3              | Douglas fir                |
+|          | Sp. 10 | 3              | [Pseudotsuga menziesii]()                |
 |          | Sp. 11 | 1              | Briophyte                  |
-| [Site 2] | Sp 1 to 12 |  | |
-| [Site 3] | Sp 1 to 12 |  | |
+| [Site 2] | Sp. 1 to 12 |          |                             |
+| [Site 3] | Sp. 1  |               | [Holodiscus discolor]()     |
+|          | Sp. 2  | 1             | [Pseudotsuga menziesii]()   |
+|          | Sp. 3  |               | [Berberis nervosa]()        |
+|          | Sp. 4  | 7             | [Vancoveria hexandra]()     |
+|          | Sp. 5  |               | [Pilosella sp]()            |
+|          | Sp. 6  |               | Unknown sp                  |
+|          | Sp. 7  |               | [Iris douglasiana]()        |
+|          | Sp. 8  |               | [Grass sp. 1]()             |
+|          | Sp. 9  |               | [Elymus trachycalus]()      |
+|          | Sp. 10 |               | [Anisocarpus mamadoides]()  |
 | [Site 4] | Sp. 1  | 1             | Achrostichum danaeiforlium  |
 |          | Sp. 2  | 71            | Violet sororia              |
 |          | Sp. 3  | 18            | Fragaria sp                 |
@@ -48,13 +57,6 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 12 | 1             | Tsuga heterophylla          |
 |          | Sp. 13 | 1             | Pinus strobus               |
 |          | Sp. 14 | 1             |                             |
-|          | Sp. 15 | 1             |                             |
-|          | Sp. 16 | 1             |                             |
-|          | Sp. 17 | 1             |                             |
-|          | Sp. 18 | 1             |                             |
-|          | Sp. 19 | 1             |                             |
-|          | Sp. 18 | 1             |                             |
-
 
 1 trail - 10 random samples collected along the trail  
 | Trail  | ID      | No. of samples | Species and description |
