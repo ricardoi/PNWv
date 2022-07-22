@@ -134,6 +134,30 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. 22  | 1              | [Rubus occidentalis])() |
 |        | Sp. 23  | 1              | [Fabaceae])() |
 |        | Sp. 24  | 1              | [Prunus emarginata])() |
+| Site 5 | Sp. R1  | 1              | [Achlys triphylla]()|
+|        | Sp. R2  | 1              | [Vaccinium parvifolium]()|
+|        | Sp. R3  | 1              | []()|
+|        | Sp. R4  | 1              | []()|
+|        | Sp. R5  | 1              | []()|
+|        | Sp. R6  | 1              | []()|
+|        | Sp. R7  | 1              | [Anemonastrum deltoideum]()|
+|        | Sp. R8  | 1              | [Viola sempervirens]()|
+|        | Sp. R9  | 1              | [Vaccinium ovaliufolium]()|
+|        | Sp. R10 | 1              | [Lactuca muralis]()|
+|        | Sp. R11 | 1              | [Thuja occidentalis]()|
+|        | Sp. R12 | 1              | [Grass]()|
+|        | Sp. R13 | 1              | [Picea ??]()|
+|        | Sp. R14 | 1              | [Godyera oubescens]()|
+|        | Sp. R15 | 1              | [Leucanthemum vulgare]()|
+|        | Sp. R16 | 1              | [Khaulteria sp]()|
+|        | Sp. R17 | 1              | [Sorbus]()|
+|        | Sp. R18 | 1              | [Acer macrophyllum]()|
+|        | Sp. R19 | 1              | [Asarum caudatum]()|
+|        | Sp. R20 | 1              | [Osmorhiza depauperata]()|
+|        | Sp. 21  | 1              | [Tsuga heterophylla])() |
+|        | Sp. 22  | 1              | [Rubus occidentalis])() |
+|        | Sp. 23  | 1              | [Fabaceae])() |
+|        | Sp. 24  | 1              | [Prunus emarginata])() |
 | ESA    | Sp. R1  | 1              |                            |
 |        | Sp. R2  | 1              |                            |
 |        | Sp. R3  | 1              |                            |
