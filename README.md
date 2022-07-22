@@ -47,13 +47,16 @@ The objective is to identify the viral diversity and composition in these natura
 |          | Sp. 10 | 4             | Grass                       |
 |          | Sp. 12 | 1             | Tsuga heterophylla          |
 |          | Sp. 13 | 1             | Pinus strobus               |
-|          | Sp. 14 | 1             |                             |
-|          | Sp. 15 | 1             |                             |
-|          | Sp. 16 | 1             |                             |
-|          | Sp. 17 | 1             |                             |
-|          | Sp. 18 | 1             |                             |
-|          | Sp. 19 | 1             |                             |
-|          | Sp. 18 | 1             |                             |
+| [Site 5] | Sp. 1  | 1             |Xerophyllum tenax                             |
+|          | Sp. 2 | 5             | Vaccinium angustifolium     |
+|          | Sp. 3 | 1             |                             |
+|          | Sp. 4 | 1             |                             |
+|          | Sp. 5 | 7             | Epigea repens                  |
+|          | Sp. 6 | 1             | Ozmorhiza                             |
+|          | Sp. 7 | 4             | Lynnea borealis                             |
+|          | Sp. 8 | 1             | Pseudotsuga menziesii                            |
+|          | Sp. 9 | 5             | Fragaria                            |
+
 
 
 1 trail - 10 random samples collected along the trail  
@@ -135,29 +138,27 @@ The objective is to identify the viral diversity and composition in these natura
 |        | Sp. 23  | 1              | [Fabaceae])() |
 |        | Sp. 24  | 1              | [Prunus emarginata])() |
 | Site 5 | Sp. R1  | 1              | [Achlys triphylla]()|
-|        | Sp. R2  | 1              | [Vaccinium parvifolium]()|
-|        | Sp. R3  | 1              | []()|
+|        | Sp. R2  | 1              | [Lysichiton americana]()|
+|        | Sp. R3  | 1              | [Corallorhiza mertensiana]()|
 |        | Sp. R4  | 1              | []()|
-|        | Sp. R5  | 1              | []()|
-|        | Sp. R6  | 1              | []()|
+|        | Sp. R5  | 1              | [Rhododendron]()|
+|        | Sp. R6  | 1              | [Cornus canadiensis]()|
 |        | Sp. R7  | 1              | [Anemonastrum deltoideum]()|
-|        | Sp. R8  | 1              | [Viola sempervirens]()|
+|        | Sp. R8  | 1              | [Achlys triphylla ]()|
 |        | Sp. R9  | 1              | [Vaccinium ovaliufolium]()|
-|        | Sp. R10 | 1              | [Lactuca muralis]()|
-|        | Sp. R11 | 1              | [Thuja occidentalis]()|
+|        | Sp. R10 | 1              | [Pseudotsuga meziensii]()|
+|        | Sp. R11 | 1              | [Xerophyllum tenax ]()|
 |        | Sp. R12 | 1              | [Grass]()|
-|        | Sp. R13 | 1              | [Picea ??]()|
+|        | Sp. R13 | 1              | [Gaultheria shallon]()|
 |        | Sp. R14 | 1              | [Godyera oubescens]()|
-|        | Sp. R15 | 1              | [Leucanthemum vulgare]()|
+|        | Sp. R15 | 1              | [Lupinus perennis]()|
 |        | Sp. R16 | 1              | [Khaulteria sp]()|
 |        | Sp. R17 | 1              | [Sorbus]()|
-|        | Sp. R18 | 1              | [Acer macrophyllum]()|
-|        | Sp. R19 | 1              | [Asarum caudatum]()|
-|        | Sp. R20 | 1              | [Osmorhiza depauperata]()|
-|        | Sp. 21  | 1              | [Tsuga heterophylla])() |
-|        | Sp. 22  | 1              | [Rubus occidentalis])() |
-|        | Sp. 23  | 1              | [Fabaceae])() |
-|        | Sp. 24  | 1              | [Prunus emarginata])() |
+|        | Sp. R18 | 1              | [Vaccinium angustifolium]()|
+|        | Sp. R19 | 1              | [Pinus silvestris]()|
+|        | Sp. R20 | 1              | [Rhododendron  with aphids]()|
+|        | Sp. 21  | 1              | [Castilleja miniata])() |
+|        | Sp. 22  | 1              | [Fragaria virginiana])() |
 | ESA    | Sp. R1  | 1              |                            |
 |        | Sp. R2  | 1              |                            |
 |        | Sp. R3  | 1              |                            |
